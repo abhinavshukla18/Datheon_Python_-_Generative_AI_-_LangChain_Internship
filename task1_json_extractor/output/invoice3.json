@@ -1,0 +1,20 @@
+{
+  "invoice_number": "ZX-19",
+  "invoice_date": "2026-09-03",
+  "vendor_name": "CloudNest Hosting LLC",
+  "customer_name": "Priya Menon",
+  "items": [
+    {
+      "description": "Web hosting (annual plan)",
+      "quantity": 1,
+      "unit_price": 120.0
+    },
+    {
+      "description": "Domain registration",
+      "quantity": 2,
+      "unit_price": 15.0
+    }
+  ],
+  "total_amount": 150.0,
+  "currency": "USD"
+}

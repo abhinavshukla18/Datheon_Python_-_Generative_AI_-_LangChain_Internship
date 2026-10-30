@@ -1,0 +1,25 @@
+{
+  "invoice_number": "8841/B",
+  "invoice_date": "2026-11-05",
+  "vendor_name": "Nandi Electronics",
+  "customer_name": "Karthik R.",
+  "items": [
+    {
+      "description": "USB-C Cable 1m",
+      "quantity": 1,
+      "unit_price": 349.0
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 2,
+      "unit_price": 799.0
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 1,
+      "unit_price": 1250.0
+    }
+  ],
+  "total_amount": 3197.0,
+  "currency": "INR"
+}

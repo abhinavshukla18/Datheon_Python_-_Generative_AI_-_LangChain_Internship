@@ -1,0 +1,10 @@
+Invoice
+Ref: ZX-19
+Issued: Sept 3, 2026
+Vendor: CloudNest Hosting LLC
+Billed to: Priya Menon
+
+Web hosting (annual plan) - qty 1 - $120
+Domain registration - qty 2 - $15 each
+
+TOTAL DUE: $150

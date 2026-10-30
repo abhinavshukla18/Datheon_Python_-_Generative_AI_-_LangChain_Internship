@@ -1,0 +1,25 @@
+{
+  "invoice_number": "INV-2026-0457",
+  "invoice_date": "2026-10-12",
+  "vendor_name": "BrightLeaf Stationers Pvt Ltd",
+  "customer_name": "Mamta Sharma",
+  "items": [
+    {
+      "description": "A4 Notebooks (pack of 5)",
+      "quantity": 3,
+      "unit_price": 250.0
+    },
+    {
+      "description": "Gel Pens (box of 10)",
+      "quantity": 2,
+      "unit_price": 120.0
+    },
+    {
+      "description": "Desk Organizer",
+      "quantity": 1,
+      "unit_price": 599.0
+    }
+  ],
+  "total_amount": 1589.0,
+  "currency": "INR"
+}

@@ -1,0 +1,12 @@
+Tax Invoice
+No: 8841/B
+dated 05/11/2026
+
+Seller: Nandi Electronics, Mysuru
+Buyer: Karthik R.
+
+1 x USB-C Cable 1m ........ 349.00
+2 x Wireless Mouse ........ 799.00 each
+1 x Laptop Stand .......... 1,250.00
+
+Grand total (incl. GST): INR 3,197.00

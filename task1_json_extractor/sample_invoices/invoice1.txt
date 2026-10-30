@@ -1,0 +1,13 @@
+INVOICE #INV-2026-0457
+Date: 12 October 2026
+
+From: BrightLeaf Stationers Pvt Ltd, Bengaluru
+Bill to: Mamta Sharma
+
+Items:
+- A4 Notebooks (pack of 5) x 3 @ Rs 250 each
+- Gel Pens (box of 10) x 2 @ Rs 120 each
+- Desk Organizer x 1 @ Rs 599
+
+Total payable: Rs 1589
+Payment due within 15 days.
