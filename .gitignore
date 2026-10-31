@@ -1,3 +1,6 @@
 venv/
 .env
 __pycache__/
+venv312/
+chroma_db/
+task2_rag_assistant/data/*.pdf
